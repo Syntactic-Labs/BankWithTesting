@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01972bb9-c34a-4676-94f8-61b093e613a0": {
+      "ProjectGuid": "01972bb9-c34a-4676-94f8-61b093e613a0",
+      "DisplayName": "Bank",
+      "ColorIndex": 0
+    },
+    "10797310-ffd6-4663-a59b-f6de408becf9": {
+      "ProjectGuid": "10797310-ffd6-4663-a59b-f6de408becf9",
+      "DisplayName": "BankTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
